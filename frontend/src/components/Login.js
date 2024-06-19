@@ -35,7 +35,7 @@ const Login = () => {
           localStorage.setItem("user", JSON.stringify(response.data.data));
           setUser(response.data.data);
           console.log("Login successful", response.data);
-          navigate("/pesan");
+          navigate("/layanan");
         } else {
           setErrors({ api: "Login failed, please try again" });
           console.error("Login failed", response);

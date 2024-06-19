@@ -14,6 +14,9 @@ function Header() {
     navigate("/login");
     localStorage.removeItem("user");
   };
+  const riwayatPemesanan = () => {
+    navigate("/riwayat");
+  };
 
   return (
     <>
@@ -105,9 +108,12 @@ function Header() {
                                   Pengaturan Profile
                                 </div>
                               </div>
-                              <div className="d-flex gap-4 align-items-center cursor-pointer">
+                              <div
+                                onClick={riwayatPemesanan}
+                                className="d-flex gap-4 align-items-center cursor-pointer"
+                              >
                                 <img src="assets/img/help.svg" alt="" />
-                                <div className="fw-bold">Bantuan</div>
+                                <div className="fw-bold">Riwayat Pemesanan</div>
                               </div>
                               <div className="d-flex gap-4 align-items-center cursor-pointer">
                                 <img src="assets/img/upgrade.svg" alt="" />
