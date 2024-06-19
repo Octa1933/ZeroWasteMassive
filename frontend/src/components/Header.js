@@ -68,7 +68,7 @@ function Header() {
                         aria-expanded="false"
                       >
                         <img
-                          src="https://s3-alpha-sig.figma.com/img/6424/3f59/5486b47cf35b6009f41bec7dc952603d?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NdM0rDOF3gDydFkZheGuVPyhyq3j70tXt~0zwh2m~mz9M~nVtCA~Atxowyg4nkkQsBnMyvvfTBeuV-FzkVCNQ5jl8f5CDkHPh4OMD3RZxFEJlhRaRXkAUbwPfL9Y1BCe~s42p7vffq7kZnCKL0DS~LSw6i0zGe8x4kKBBvF2Vf1epMXYuS2SnA2KFbPMJ3HqFJTpfA8lAmYd0h0uQ2sMgJcxM3Lc97oXkwFPrPDaAYXKLW5qU5k-aBXTXTULAwgvB1pWPyPPHx403qALXsAoXolMe8nytv1W3DhEzeRQGTgblkUoTKpPpKtYzputpAIROnawMoVz7y1r7P2Rv75hlQ__"
+                          src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL3JtNjA5LXNvbGlkaWNvbi13LTAwMi1wLnBuZw.png"
                           alt=""
                         />
                       </div>
@@ -86,7 +86,7 @@ function Header() {
                                 aria-expanded="false"
                               >
                                 <img
-                                  src="https://s3-alpha-sig.figma.com/img/6424/3f59/5486b47cf35b6009f41bec7dc952603d?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NdM0rDOF3gDydFkZheGuVPyhyq3j70tXt~0zwh2m~mz9M~nVtCA~Atxowyg4nkkQsBnMyvvfTBeuV-FzkVCNQ5jl8f5CDkHPh4OMD3RZxFEJlhRaRXkAUbwPfL9Y1BCe~s42p7vffq7kZnCKL0DS~LSw6i0zGe8x4kKBBvF2Vf1epMXYuS2SnA2KFbPMJ3HqFJTpfA8lAmYd0h0uQ2sMgJcxM3Lc97oXkwFPrPDaAYXKLW5qU5k-aBXTXTULAwgvB1pWPyPPHx403qALXsAoXolMe8nytv1W3DhEzeRQGTgblkUoTKpPpKtYzputpAIROnawMoVz7y1r7P2Rv75hlQ__"
+                                  src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAxL3JtNjA5LXNvbGlkaWNvbi13LTAwMi1wLnBuZw.png"
                                   alt=""
                                 />
                               </div>
