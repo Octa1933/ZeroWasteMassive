@@ -55,7 +55,7 @@ function Header() {
             <div className="d-none d-lg-flex gap-4">
               <div className="d-flex gap-4 align-items-center ml-auto">
                 <Link
-                  to="/"
+                  to="/pesan"
                   className="btn bg-white rounded-pill py-2 px-4 font-bold shadow"
                   style={{ color: "#309434", fontWeight: "bold" }}
                 >
